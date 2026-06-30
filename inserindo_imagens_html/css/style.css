@@ -1,0 +1,12 @@
+body {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    color: #ffffff;
+    background-color: #2fa1ff;
+    font-family: 'Fjalla One';
+}
+
+img {
+    width: 1080px;
+}
